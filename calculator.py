@@ -10,7 +10,11 @@ elif operation == "*":
 elif operation == "/":
   result = a/ b
 else:
-  result = None
   print("Неизвестное действие")
+  result = None
   if result is not None
 print("Ответ:" ,result)
+
+
+
+
